@@ -7,7 +7,7 @@ body {
 
 textarea {
   background: transparent;
-  border: none;
+  border-style: none;
   resize: none;
   color: #000000;
   border-left: 1px solid black;
@@ -42,7 +42,7 @@ textarea {
   color: #000000;
   border-top: 1px dashed #000000;
   padding-top: 10px;
-  padding-left: 25px;
+  padding-left: 20px;
 }
 
 .past {
@@ -61,12 +61,12 @@ textarea {
 }
 
 .saveBtn {
-  border-left: 1px solid black;
+  border: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #1f9381;
+  background-color: #849391;
   color: white;
-  text-align: auto;
+  text-align:center;
 }
 
 .saveBtn i:hover {

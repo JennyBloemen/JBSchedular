@@ -100,5 +100,8 @@ You are required to submit the following for review:
 
 
 
+
+https://api.jqueryui.com/addClass/
+
 Icon Scout
 <a href="https://iconscout.com/icons/save" target="_blank">Save Icon</a> by <a href="https://iconscout.com/contributors/yoyonpujiono">Iconion</a> on <a href="https://iconscout.com">IconScout</a>
