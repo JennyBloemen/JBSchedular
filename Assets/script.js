@@ -1,12 +1,13 @@
-// global variables that will allow us to use jQuery, ie jquery go select this element
-var rows = $(".row");
-var hours = $(".hour");
-var hourTask = $(".hour-task");
-var saveBtn = $(".saveBtn");
-var present = $(".present");
-var timeBlock = $("time-block");
-
-// var currentDay = $("#currentDay")
+// / Declaration of elements/classes
+const rows = $(".row");
+const hours = $(".hour");
+const past = $(".past");
+const present = $(".present");
+const future = $(".future");
+const timeBlock = $(".time-block");
+const saveButton = $(".saveBtn");
+const hourTask = $("id");
+const userText = $(".hour-task");
 
 // use moment to set the time
 $(document).ready(function () {
@@ -17,18 +18,13 @@ $(document).ready(function () {
     console.log(hours);
   });
 
+  // function to set the row colors based on the time
+  // WHEN I view the timeblocks for that day, THEN each timeblock is color coded to indicate whether it is in the past, present, or future
+  var parent = $(this).parents(".row");
+  var timeId = parseInt(parent.attr("id"));
+  var currentHour = parseInt(moment().format("H"));
+  
 
-
-
-// function to set the row colors based on the time
-
-
-
-// WHEN I view the timeblocks for that day, THEN each timeblock is color coded to indicate whether it is in the past, present, or future
-
-
-
-
-// WHEN I can enter an event, WHEN I click the save button for that timeblock, THEN the text for that event is saved in local storage,WHEN I refresh the page, THEN the saved events persist
-
-
+  
+  
+  
