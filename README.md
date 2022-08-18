@@ -105,3 +105,15 @@ https://api.jqueryui.com/addClass/
 
 Icon Scout
 <a href="https://iconscout.com/icons/save" target="_blank">Save Icon</a> by <a href="https://iconscout.com/contributors/yoyonpujiono">Iconion</a> on <a href="https://iconscout.com">IconScout</a>
+
+•Storing Objects with Local Storage in JavaScript
+
+•jQuery .each()
+
+•Moment.js
+
+•Bootsrap
+
+•jQuery
+
+Tutor/Teach Assistant Help
