@@ -12,7 +12,8 @@ To take a timed quiz, the following requirements are met when:
   <li>Tasks enetered can be saved to local storage and are still viewable when the page is refreshed</li>
 </ul>
 <h3>Screenshot of application</h3>
-image.png
+![Daily Schedular Image](https://user-images.githubusercontent.com/108432711/185464463-8011d540-0616-4772-8e25-1ed408631c71.png)
+
 <br><br>
 <h3>Link to the Final Page:</h3>
 https://jennybloemen.github.io/JB-WebAPI/
