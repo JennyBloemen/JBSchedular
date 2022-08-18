@@ -13,8 +13,8 @@ To take a timed quiz, the following requirements are met when:
 </ul>
 
 <h3>Screenshot of application</h3>
-![image](https://user-images.githubusercontent.com/108432711/185464832-fb82e146-32ee-4f14-86c0-b0a90f49d139.png)
 
+![Daily Schedular Image](https://user-images.githubusercontent.com/108432711/185465418-11e72bb7-6142-4558-ab44-d11c835a82f2.png)
 
 <br><br>
 <h3>Link to the Final Page:</h3>
