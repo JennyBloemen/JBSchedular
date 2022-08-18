@@ -18,7 +18,7 @@ To take a timed quiz, the following requirements are met when:
 
 <br><br>
 <h3>Link to the Final Page:</h3>
-https://jennybloemen.github.io/JB-WebAPI/
+[https://jennybloemen.github.io/JB-WebAPI/](https://jennybloemen.github.io/JBSchedular/)
 <br><br>
 <h3>Sources</h3>
 <ul>
