@@ -11,8 +11,9 @@ To take a timed quiz, the following requirements are met when:
   <li>Each timeblock is color coded to indicate whether it is in the past, present, or future</li>
   <li>Tasks enetered can be saved to local storage and are still viewable when the page is refreshed</li>
 </ul>
-<h3>Screenshot of application</h3>
-![Daily Schedular Image](https://user-images.githubusercontent.com/108432711/185464463-8011d540-0616-4772-8e25-1ed408631c71.png)
+<h3![Daily Schedular Image](https://user-images.githubusercontent.com/108432711/185464691-b1956a0f-34f1-4019-8b2b-037b94edbb06.jpg)
+>Screenshot of application</h3>
+
 
 <br><br>
 <h3>Link to the Final Page:</h3>
